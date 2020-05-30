@@ -1,3 +1,26 @@
 .about {
-    
+    background-color: #fff;
+    display: flex;
+    padding: 2rem;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.cont{
+    position: relative;
+    width: 75%;
+}
+
+.center{
+    text-align: center;
+    margin: 0 auto;
+    padding: 1rem;
+    width: 75%;
+    color: grey;
+};
+
+.color {
+    color: grey;
 }
