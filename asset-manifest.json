@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/MustafaKhairalla/m-khairalla-portfolio/static/css/main.4ce11c14.chunk.css",
+    "main.js": "/MustafaKhairalla/m-khairalla-portfolio/static/js/main.0ed51132.chunk.js",
+    "main.js.map": "/MustafaKhairalla/m-khairalla-portfolio/static/js/main.0ed51132.chunk.js.map",
+    "runtime-main.js": "/MustafaKhairalla/m-khairalla-portfolio/static/js/runtime-main.7ae3960d.js",
+    "runtime-main.js.map": "/MustafaKhairalla/m-khairalla-portfolio/static/js/runtime-main.7ae3960d.js.map",
+    "static/css/2.89f067aa.chunk.css": "/MustafaKhairalla/m-khairalla-portfolio/static/css/2.89f067aa.chunk.css",
+    "static/js/2.cf4316ec.chunk.js": "/MustafaKhairalla/m-khairalla-portfolio/static/js/2.cf4316ec.chunk.js",
+    "static/js/2.cf4316ec.chunk.js.map": "/MustafaKhairalla/m-khairalla-portfolio/static/js/2.cf4316ec.chunk.js.map",
+    "index.html": "/MustafaKhairalla/m-khairalla-portfolio/index.html",
+    "precache-manifest.f5a2564a9a4d33487ab83e009611cdea.js": "/MustafaKhairalla/m-khairalla-portfolio/precache-manifest.f5a2564a9a4d33487ab83e009611cdea.js",
+    "service-worker.js": "/MustafaKhairalla/m-khairalla-portfolio/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/MustafaKhairalla/m-khairalla-portfolio/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.4ce11c14.chunk.css.map": "/MustafaKhairalla/m-khairalla-portfolio/static/css/main.4ce11c14.chunk.css.map",
+    "static/js/2.cf4316ec.chunk.js.LICENSE.txt": "/MustafaKhairalla/m-khairalla-portfolio/static/js/2.cf4316ec.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/MustafaKhairalla/m-khairalla-portfolio/static/media/bg-mustafa.d94f8b31.jpg",
+    "static/media/dayplanner.PNG": "/MustafaKhairalla/m-khairalla-portfolio/static/media/dayplanner.3d1dd3ba.PNG",
+    "static/media/foodecipe.PNG": "/MustafaKhairalla/m-khairalla-portfolio/static/media/foodecipe.5eb39e2d.PNG",
+    "static/media/mustafa.jpg": "/MustafaKhairalla/m-khairalla-portfolio/static/media/mustafa.20980369.jpg",
+    "static/media/password.PNG": "/MustafaKhairalla/m-khairalla-portfolio/static/media/password.bed5a76f.PNG",
+    "static/media/tripoints.PNG": "/MustafaKhairalla/m-khairalla-portfolio/static/media/tripoints.fc6bcb2b.PNG",
+    "static/media/weather.PNG": "/MustafaKhairalla/m-khairalla-portfolio/static/media/weather.2c313359.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ae3960d.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.cf4316ec.chunk.js",
+    "static/css/main.4ce11c14.chunk.css",
+    "static/js/main.0ed51132.chunk.js"
+  ]
+}
