@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/m-khairalla-portfolio/static/css/main.5ff2d445.chunk.css",
-    "main.js": "/m-khairalla-portfolio/static/js/main.78aa2f30.chunk.js",
-    "main.js.map": "/m-khairalla-portfolio/static/js/main.78aa2f30.chunk.js.map",
+    "main.css": "/m-khairalla-portfolio/static/css/main.d079bd34.chunk.css",
+    "main.js": "/m-khairalla-portfolio/static/js/main.0d67ae61.chunk.js",
+    "main.js.map": "/m-khairalla-portfolio/static/js/main.0d67ae61.chunk.js.map",
     "runtime-main.js": "/m-khairalla-portfolio/static/js/runtime-main.e192de82.js",
     "runtime-main.js.map": "/m-khairalla-portfolio/static/js/runtime-main.e192de82.js.map",
     "static/css/2.89f067aa.chunk.css": "/m-khairalla-portfolio/static/css/2.89f067aa.chunk.css",
-    "static/js/2.cf4316ec.chunk.js": "/m-khairalla-portfolio/static/js/2.cf4316ec.chunk.js",
-    "static/js/2.cf4316ec.chunk.js.map": "/m-khairalla-portfolio/static/js/2.cf4316ec.chunk.js.map",
+    "static/js/2.4ae0dbf1.chunk.js": "/m-khairalla-portfolio/static/js/2.4ae0dbf1.chunk.js",
+    "static/js/2.4ae0dbf1.chunk.js.map": "/m-khairalla-portfolio/static/js/2.4ae0dbf1.chunk.js.map",
     "index.html": "/m-khairalla-portfolio/index.html",
-    "precache-manifest.0bc79b1b5cf15a7c9f84d55f27b9902c.js": "/m-khairalla-portfolio/precache-manifest.0bc79b1b5cf15a7c9f84d55f27b9902c.js",
+    "precache-manifest.b8897c6a16d64eda1f20f4f291b7edf7.js": "/m-khairalla-portfolio/precache-manifest.b8897c6a16d64eda1f20f4f291b7edf7.js",
     "service-worker.js": "/m-khairalla-portfolio/service-worker.js",
     "static/css/2.89f067aa.chunk.css.map": "/m-khairalla-portfolio/static/css/2.89f067aa.chunk.css.map",
-    "static/css/main.5ff2d445.chunk.css.map": "/m-khairalla-portfolio/static/css/main.5ff2d445.chunk.css.map",
-    "static/js/2.cf4316ec.chunk.js.LICENSE.txt": "/m-khairalla-portfolio/static/js/2.cf4316ec.chunk.js.LICENSE.txt",
+    "static/css/main.d079bd34.chunk.css.map": "/m-khairalla-portfolio/static/css/main.d079bd34.chunk.css.map",
+    "static/js/2.4ae0dbf1.chunk.js.LICENSE.txt": "/m-khairalla-portfolio/static/js/2.4ae0dbf1.chunk.js.LICENSE.txt",
     "static/media/index.css": "/m-khairalla-portfolio/static/media/bg-mustafa.d94f8b31.jpg",
     "static/media/dayplanner.PNG": "/m-khairalla-portfolio/static/media/dayplanner.3d1dd3ba.PNG",
     "static/media/foodecipe.PNG": "/m-khairalla-portfolio/static/media/foodecipe.5eb39e2d.PNG",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.e192de82.js",
     "static/css/2.89f067aa.chunk.css",
-    "static/js/2.cf4316ec.chunk.js",
-    "static/css/main.5ff2d445.chunk.css",
-    "static/js/main.78aa2f30.chunk.js"
+    "static/js/2.4ae0dbf1.chunk.js",
+    "static/css/main.d079bd34.chunk.css",
+    "static/js/main.0d67ae61.chunk.js"
   ]
 }
